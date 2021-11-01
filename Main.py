@@ -1,6 +1,4 @@
 import tkinter as tk
-import tkinter.ttk
-from tkinter import VERTICAL
 
 from CalculationClient import calculateBestTeams
 from Data.TeamExport import TeamExport
